@@ -34,9 +34,13 @@ The evaluate function should accept a list of labels (the true labels for the us
 ## How to run
 
 1. Clone this project
-2. Run the AI Model:
+2. Install scikit-learn package:
+   ```
+   pip install scikit-learn
+   ```
+3. Run the AI Model:
    ```
    python shopping.py 'dataset file'
    ```
-   (You can get the dataset file here[https://cdn.cs50.net/ai/2023/x/projects/4/shopping.zip] or from others platform like Kaggle)
+   (You can use dataset file `shopping.csv` or you can get the dataset file from platform like Kaggle)
    

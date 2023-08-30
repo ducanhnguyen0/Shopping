@@ -9,6 +9,7 @@ An AI program predicts whether online shopping customers will complete a purchas
 ## Tech Stack:
 
 * Python
+* Scikit-learn
 
 ## Background:
 
